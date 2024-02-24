@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nikhil Goral
 - 🌱 I’m currently learning Data SCience
-- 📫 How to reach me nikhilgoral587@gmail.com
+- 📫 How to reach me
+     nikhilgoral587@gmail.com
 
 <!---
 NikhilGoral28/NikhilGoral28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
