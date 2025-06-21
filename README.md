@@ -13,9 +13,10 @@
 - **Job Web Scraper** – Automates scraping job postings and filters them by skill
 
 🛠️ Featured Projects:
-- **Movie Recommender System** – A content-based engine using NLP and Scikit-learn → [https://github.com/NikhilGoral28/Personal_healthcare_assistant_AI/tree/f6eca672a79a6aa78a02288719f04fe06f8b04e0/Personal_healthcare_assistant_AI](#)  
-- **Personal Healthcare Assistant** – 
-- **Budjet Tracker** – Instantly create optimized resumes using AI → | [budgettracker]()  
+- **Movie Recommender System** – A content-based engine using NLP and Scikit-learn → [](#)  
+- **Personal Healthcare Assistant** – [Personal_healthcare_assistant_AI](https://github.com/NikhilGoral28/Personal_healthcare_assistant_AI/tree/f6eca672a79a6aa78a02288719f04fe06f8b04e0/Personal_healthcare_assistant_AI)  
+- **Budjet Tracker** – Instantly create optimized resumes using AI → | [budgettracker](https://github.com/NikhilGoral28/java-projects/tree/0ba8a153c3c771bac4d890d865cfc833e5f5fb2c/budgettracker)
+- **Typing class using python** - [Typing_class](https://github.com/NikhilGoral28/Typing-class-using-python/blob/3761179be099254789bf348ff997c39a99e3ee5f/main.py)
 
 🧠 Learning Journey:  
 - 🔍 Focus areas: Python, Flask, Data Science , ML (Scikit-learn, TensorFlow), Web APIs, Deep learning, AI, Supabase, MySQL, java, etc.  
