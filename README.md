@@ -16,7 +16,7 @@
 🛠️ Featured Projects:
 - **Movie Recommender System** – A content-based engine using NLP and Scikit-learn → [Code](#)  
 - **Personal Healthcare Assistant** – 
-- **Budjet Tracker** – Instantly create optimized resumes using AI → | [Code](#)  
+- **Budjet Tracker** – Instantly create optimized resumes using AI → | [budgettracker](#)  
 
 🧠 Learning Journey:  
 - 🔍 Focus areas: Python, Flask, Data Science , ML (Scikit-learn, TensorFlow), Web APIs, Deep learning, AI, Supabase, MySQL, java, etc.  
