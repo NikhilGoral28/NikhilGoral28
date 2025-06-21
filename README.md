@@ -25,7 +25,7 @@
 
 📬 Want to collaborate or need something built?  
 DM me on linkedin or email me at: nikhilgoral587@gmail.com
-linkedin: 
+linkedin: https://www.linkedin.com/in/nikhil-goral-340266259
 
 🌐 Portfolio: [nikhilgoral.netlify.app](https://nikhilgoral.netlify.app)
 
