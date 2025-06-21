@@ -9,14 +9,13 @@
 
 🚀 Currently working on:
 - 🎬 **Netflix-like Movie Recommender System**  
-- 📊 **Personal Healthcare Assistant**  
 - 📸 **AI Resume Builder** – Instantly create optimized resumes using AI
 - **Job Web Scraper** – Automates scraping job postings and filters them by skill
 
 🛠️ Featured Projects:
-- **Movie Recommender System** – A content-based engine using NLP and Scikit-learn → [Code](#)  
+- **Movie Recommender System** – A content-based engine using NLP and Scikit-learn → [https://github.com/NikhilGoral28/Personal_healthcare_assistant_AI/tree/f6eca672a79a6aa78a02288719f04fe06f8b04e0/Personal_healthcare_assistant_AI](#)  
 - **Personal Healthcare Assistant** – 
-- **Budjet Tracker** – Instantly create optimized resumes using AI → | [budgettracker](#)  
+- **Budjet Tracker** – Instantly create optimized resumes using AI → | [budgettracker]()  
 
 🧠 Learning Journey:  
 - 🔍 Focus areas: Python, Flask, Data Science , ML (Scikit-learn, TensorFlow), Web APIs, Deep learning, AI, Supabase, MySQL, java, etc.  
