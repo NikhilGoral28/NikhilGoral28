@@ -2,9 +2,6 @@
 
 🎓 I'm a B.Tech student specializing in **Data Science** with a strong interest in **Data Science**, **Machine Learning**, **Deep Learning**, **AI**, and **Web Development**. I'm passionate about solving real-world problems through technology and love building smart, impactful systems.
 
-<p align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" alt="developer" width="300"/>
-</p>
 
 - 🌱 I’m currently diving deep into **React, Python, and AI/ML**
 - 💼 All my projects live at: [My Portfolio](https://nikhil-portfolio-7szj.onrender.com/)
