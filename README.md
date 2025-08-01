@@ -7,9 +7,9 @@
 </p>
 
 - 🌱 I’m currently diving deep into **React, Python, and AI/ML**
-- 💼 All my projects live at: [My Portfolio](https://pranav-portfolio-bqzp.onrender.com/)
+- 💼 All my projects live at: [My Portfolio](https://nikhil-portfolio-7szj.onrender.com/)
 - 📫 Contact me at: **nikhilgoral587@gmail.com**
-- 📄 Resume: [Click to View](https://drive.google.com/file/d/1YciVU4oNOIFgmSDpDzt9jcQe1B2Q2cwM/view?usp=drive_link)
+- 📄 Resume: [Click to View]()
 - ⚡ Fun fact: **I love building real-world projects & exploring new tech trends.**
 
 ---
@@ -18,9 +18,8 @@
 
 <p align="left">
   <a href="https://twitter.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="30"/></a>
-  <a href="https://linkedin.com/in/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30"/></a>
-  <a href="https://hashnode.com/" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" width="30"/></a>
+  <a href="https://www.linkedin.com/in/nikhil-goral-340266259/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/></a>
+  <a href="https://www.instagram.com/iam_nikhilng28/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30"/></a>
 </p>
 
 ---
