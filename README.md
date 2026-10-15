@@ -1,120 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0A66C2&height=200&section=header&text=Nikhil%20Goral&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Applied%20AI%20%7C%20Forward%20Deployed%20Engineering&descSize=18&descAlignY=60" alt="Nikhil Goral - AI/ML Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=210&section=header&text=Nikhil%20Goral&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20Applied%20AI%20%C2%B7%20Forward%20Deployed%20Engineering&descSize=18&descAlignY=58" alt="Nikhil Goral - AI/ML Engineer" width="100%" />
 
-### Building intelligent systems that solve real-world problems.
+**Building intelligent systems that solve real-world problems.**
 
-<a href="https://nikhilgoral-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/nikhilgoral28"><img src="https://img.shields.io/badge/GitHub-nikhilgoral28-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/search/results/people/?keywords=Nikhil%20Goral"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nikhilgoral587@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://nikhilgoral-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nikhil-goral-340266259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/nikhilgoral28"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:nikhilgoral587@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br />
 
-## 👋 About Me
+## Professional Summary
 
-I'm a **B.Tech graduate in Data Science** with a passion for building practical AI applications and turning ideas into reliable, deployable software.
+B.Tech graduate in Data Science with hands-on experience building practical AI applications and turning ideas into reliable, deployable software.
 
-My work focuses on **Machine Learning, LLM-powered applications, AI agents, backend development, and data-driven systems**. I enjoy working across the full development lifecycle — from understanding a problem and designing a solution to integrating models, building APIs, and deploying applications.
+My work spans **Machine Learning, LLM-powered applications, AI agents, backend development, and data-driven systems**. I work across the full development lifecycle: understanding the problem, designing the solution, integrating models, building APIs, and deploying applications.
 
 I am particularly interested in **Applied AI** and **Forward Deployed Engineering (FDE)**, where technical execution meets real user needs, product thinking, and measurable business impact.
 
----
+<br />
 
-## 🎯 Areas of Focus
+## Core Competencies
 
-| Area | What I Work On |
+| Domain | Focus |
 | :--- | :--- |
-| 🤖 **Applied AI & Machine Learning** | Model development, data-driven solutions, evaluation, and inference |
-| 🧠 **LLM Applications & AI Agents** | Retrieval-Augmented Generation (RAG), tool calling, workflow orchestration, and AI integrations |
-| ⚙️ **Backend Engineering** | REST APIs, model-serving services, database integration, and application architecture |
-| 📊 **Data Science & Analytics** | Data preparation, exploratory analysis, visualization, and actionable insights |
-| 🚀 **Deployment & Integration** | Connecting models, APIs, databases, and external services into usable applications |
+| **Applied AI & Machine Learning** | Model development, feature engineering, evaluation, and inference |
+| **LLM Applications & AI Agents** | Retrieval-Augmented Generation (RAG), tool calling, workflow orchestration, and AI integrations |
+| **Backend Engineering** | REST APIs, model-serving services, database integration, and application architecture |
+| **Data Science & Analytics** | Data preparation, exploratory analysis, visualization, and actionable insights |
+| **Deployment & Integration** | Connecting models, APIs, databases, and external services into production-ready applications |
 
----
+<br />
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-**Programming Languages**
+### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,html,css,postgres,mysql" alt="Programming languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,ts,bash,html,css" alt="Programming languages" />
 
-`Python` · `SQL` · `Java` · `C++` · `C` · `R` · `JavaScript` · `HTML` · `CSS`
+`Python` · `SQL` · `Java` · `C++` · `C` · `R` · `JavaScript` · `TypeScript` · `Bash` · `HTML` · `CSS`
 
-**Machine Learning & Data Science**
+### Machine Learning & Data Science
 
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pandas,numpy,opencv" alt="Machine learning and data science" />
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv" alt="Machine learning and data science" />
 
-`Scikit-learn` · `TensorFlow` · `Pandas` · `NumPy` · `Seaborn` · `OpenCV` · `NLTK` · `MediaPipe`
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/XGBoost-017CEE?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" alt="NLTK" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
 
-**LLMs & AI Engineering**
+### LLMs & AI Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI%20Agents-059669?style=for-the-badge" alt="AI Agents" />
-</p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Anthropic%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic API" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=flat-square" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/AI%20Agents-059669?style=flat-square" alt="AI Agents" />
 
-**Backend & APIs**
+### Backend & APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django" alt="Backend frameworks" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express" alt="Backend frameworks" />
 
-`FastAPI` · `Flask` · `Django` · `REST APIs`
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
 
-**Databases**
+### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Databases" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis,sqlite" alt="Databases" />
 
-`PostgreSQL` · `MySQL` · `MongoDB` · `Supabase`
+### Frontend
 
-**Developer Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" alt="Frontend" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,anaconda,selenium,figma" alt="Developer tools" />
-</p>
+### Cloud, DevOps & Developer Tools
 
-`Git` · `GitHub` · `Docker` · `Render` · `n8n` · `VS Code` · `Jupyter` · `Google Colab` · `Anaconda` · `Power BI` · `Selenium` · `Figma`
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,aws,vercel,vscode,jupyter,anaconda,selenium,figma" alt="Developer tools" />
 
----
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
 
-## 🧩 Engineering Approach
+<br />
 
-I aim to build systems that go beyond proof of concept and address practical requirements.
+## Engineering Approach
 
-- 🔍 Translate ambiguous problems into clear technical requirements
-- 🧭 Design AI-powered workflows around real user needs
-- 🔗 Integrate LLMs, tools, APIs, and databases into functional applications
-- 🏗️ Develop maintainable backend services and deployable software
-- 📈 Evaluate reliability, performance, and practical usefulness
-- 🔁 Iterate on solutions based on testing, feedback, and results
+I aim to build systems that go beyond proof of concept and meet practical requirements.
 
----
+- Translate ambiguous problems into clear technical requirements
+- Design AI-powered workflows around real user needs
+- Integrate LLMs, tools, APIs, and databases into functional applications
+- Develop maintainable backend services and deployable software
+- Evaluate reliability, performance, and practical usefulness
+- Iterate on solutions based on testing, feedback, and results
 
-## 📂 Selected Work
+<br />
 
-I use projects to explore AI engineering, data science, backend systems, and practical software development. My goal is to demonstrate **end-to-end engineering**: understanding the problem, choosing the right approach, implementing the solution, evaluating its effectiveness, and making it accessible to users.
+## Selected Work
+
+I use projects to explore AI engineering, data science, backend systems, and practical software development. The goal is end-to-end engineering: understanding the problem, choosing the right approach, implementing the solution, evaluating its effectiveness, and making it accessible to users.
 
 | Resource | Description |
 | :--- | :--- |
-| 🌐 [**Portfolio**](https://nikhilgoral-portfolio.onrender.com) | Projects and professional profile |
-| 💻 [**GitHub Repositories**](https://github.com/nikhilgoral28?tab=repositories) | Source code, experiments, and implementations |
+| [**Portfolio**](https://nikhilgoral-portfolio.onrender.com) | Projects and professional profile |
+| [**GitHub Repositories**](https://github.com/nikhilgoral28?tab=repositories) | Source code, experiments, and implementations |
+| [**LinkedIn**](https://www.linkedin.com/in/nikhil-goral-340266259) | Professional background and experience |
 
----
+<br />
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -127,23 +141,23 @@ I use projects to explore AI engineering, data science, backend systems, and pra
 
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=nikhilgoral28&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+<img height="165" src="https://streak-stats.demolab.com/?user=nikhilgoral28&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
----
+<br />
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to opportunities in **AI/ML Engineering, Applied AI, LLM Application Development, Forward Deployed Engineering**, internships, and freelance projects.
 
-I'm always interested in collaborating with people who enjoy building useful products, solving challenging technical problems, and turning emerging technologies into practical solutions.
+I enjoy collaborating with people who build useful products, solve challenging technical problems, and turn emerging technologies into practical solutions.
 
 <div align="center">
 
 <a href="mailto:nikhilgoral587@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" /></a>
-<a href="https://github.com/nikhilgoral28"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub" /></a>
-<a href="https://nikhilgoral-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
+<a href="https://www.linkedin.com/in/nikhil-goral-340266259"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://nikhilgoral-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
 
 <br /><br />
 
@@ -153,6 +167,6 @@ I'm always interested in collaborating with people who enjoy building useful pro
 
 <i>Learn continuously. Build thoughtfully. Deliver impact.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2563EB&height=100&section=footer" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" alt="Footer" width="100%" />
 
 </div>
