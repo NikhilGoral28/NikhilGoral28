@@ -114,19 +114,6 @@ I aim to build systems that go beyond proof of concept and meet practical requir
 - Evaluate reliability, performance, and practical usefulness
 - Iterate on solutions based on testing, feedback, and results
 
-<br />
-
-## Selected Work
-
-I use projects to explore AI engineering, data science, backend systems, and practical software development. The goal is end-to-end engineering: understanding the problem, choosing the right approach, implementing the solution, evaluating its effectiveness, and making it accessible to users.
-
-| Resource | Description |
-| :--- | :--- |
-| [**Portfolio**](https://nikhilgoral-portfolio.onrender.com) | Projects and professional profile |
-| [**GitHub Repositories**](https://github.com/nikhilgoral28?tab=repositories) | Source code, experiments, and implementations |
-| [**LinkedIn**](https://www.linkedin.com/in/nikhil-goral-340266259) | Professional background and experience |
-
-<br />
 
 ## GitHub Statistics
 
@@ -141,7 +128,6 @@ I use projects to explore AI engineering, data science, backend systems, and pra
 
 <br />
 
-<img height="165" src="https://streak-stats.demolab.com/?user=nikhilgoral28&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
